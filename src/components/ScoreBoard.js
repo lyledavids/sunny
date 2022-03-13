@@ -1,3 +1,4 @@
+
 const ScoreBoard = ({ score }) => {
   return (
     <div className="score-board">

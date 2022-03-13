@@ -1,4 +1,5 @@
 import {useEffect, useState} from 'react'
+import { useMoralis } from "react-moralis";
 import ScoreBoard from './components/ScoreBoard'
 import austin from './images/austin.jpg'
 import eric from './images/eric.png'
